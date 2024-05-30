@@ -2,5 +2,5 @@
 Sends an audible notification when the charge is full. 
 Only works where powershell is available.
 Silent run.
-If you turn it off, then only in the task manager))) You can set autorun yourself. 
+You can turn it off only in the task manager.
 To run it, click on 2. vbs
